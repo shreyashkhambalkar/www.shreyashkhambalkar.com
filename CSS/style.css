@@ -1,0 +1,140 @@
+body{
+     background-color:  #F0F8FF;
+     text-align: center;
+     font-family: 'Merriweather', serif;
+
+
+}
+h1{font-size: 70px;
+    color :#696969;
+     }
+
+.ss {h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 24px;
+}}
+
+.pp { color : #E0E0E0;
+margin:auto ;
+font-family: 'Comic Sans MS', cursive;
+}
+img{
+margin: auto;
+max-height: 200px;
+max-width: 200px;
+width: 200px;
+height: 200px;
+}
+
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align : left;
+   line-height: 1.4;
+   }
+.screen{
+float : left;
+width: 50%;
+margin-right: 30px;
+}
+.ff{
+float : right;
+width: 40%;
+margin-right: 30px;
+}
+.profile-photo
+
+img{margin: 0%;
+max-height: 300px;
+max-width: 300px;
+width: 300px;
+height: 300px;
+
+}
+p { margin-right: 100px;
+     line-height: 1.4;
+
+   }
+h2 {
+    display: block;
+    font-size: 2.5em;
+    font-weight: bold;
+    padding-bottom: 10px;
+    color: #A3E4D7;
+}
+h4 {
+color: #4169E1;
+}
+.middle-container {
+ background-image: url(../images/bb1.png);
+ background-position: bottom;
+     background-size: 100%;
+     background-repeat: no-repeat;
+     margin: 0 0;
+
+}
+.intro {width: 30%;
+   margin: auto;}
+
+   hr{
+   border: dotted #EAF6F6 6px;
+   border-bottom: none;
+   width: 4%;
+   margin-top: 50px;
+   }
+   .contact {
+   width: 40%;
+   margin: 40px auto 60px;
+   }
+
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:7px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 15px;
+	text-decoration:none;
+	text-shadow:0px 4px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+.bottom-container {
+background-color: #66BFBF;
+padding: 30px 0 ;
+}
+a {
+ color: #11999E;
+ font-family: 'Montserrat', sans-serif;
+ font-weight: bold;
+ margin: 10px 20px;
+}
+.cpr {
+margin: 30px auto;
+color: #EAF6F6;
+}
+.top-container {
+     background-color:#E0FFFF;
+     background-image: url(../images/background11.png) ;
+     background-size: 100%;
+     margin-top: 01px;
+     padding: 150px;
+}
+
+.profile-photo {
+margin-top: 50px
+}
